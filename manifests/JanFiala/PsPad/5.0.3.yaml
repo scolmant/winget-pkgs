@@ -1,0 +1,15 @@
+Id: JanFiala.PsPad
+Version: 5.0.3
+Name: PsPad
+Publisher: Jan Fiala
+License: Copyright (C) 2001-2015 Jan Fiala
+LicenseUrl: http://www.pspad.com/en/licence.php
+AppMoniker: PsPad
+Tags: editor
+Description: PSPad is a freeware programmer's editor for Microsoft Windows operating systems
+Homepage: http://www.pspad.com
+Installers:
+  - Arch: x64
+    Url: http://pspad.poradna.net/release/pspad503_setup.exe
+    Sha256: 8EEE101740B5151EE443DAC68477D806717C636B73B019C33CD9542AD9A9A8DD
+    InstallerType: exe
